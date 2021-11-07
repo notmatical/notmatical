@@ -4,7 +4,7 @@
 </div>
 
 <div align="center">
-  <h3>💻 Full-Stack Developer | 🌏 Denver, CO</h3>
+  <h3>💻 Full-Stack Developer | 🌏 Tampa, FL</h3>
 </div>
 
 ### About Me
