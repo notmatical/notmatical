@@ -12,7 +12,7 @@
 - 👨‍💻 Really enjoy collaborating on `open source` projects.
 - ✈️ Fun Fact: Love to travel.
 
-📫 Contact Me: <a href='mailto:matical@yaku.ai'>matical@yaku.ai</a>
+📫 Contact Me: <a href='mailto:matical@divergent.cc'>matical@divergent.cc</a>
 
 <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=notmatical&show_icons=true&count_private=true&theme=dark" width="350"></a>
 
