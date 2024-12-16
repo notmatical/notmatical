@@ -7,10 +7,8 @@
 
 ## About Me
 
-- 📊 Self-taught Software Engineer since the age of 15.
-- ⚡️ Currently working full-time on Blockchain Technology.
-- 👨‍💻 Really enjoy collaborating on `open source` projects.
-- ✈️ Fun Fact: Love to travel.
+- 📊 Software Engineer with 10 years of experience.
+- ⚡️ Currently looking for a full-time oppourtunity.
 
 📫 Contact Me: <a href='mailto:matical@divergent.cc'>matical@divergent.cc</a>
 
